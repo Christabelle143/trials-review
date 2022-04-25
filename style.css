@@ -1,0 +1,46 @@
+#main{
+    background-color:	rgb(211, 211, 211);
+    border-radius: 5px;
+    margin:20px 10px;
+      padding:20px;
+  }
+  body{
+   font-family:Arial, sans-serif;
+     text-align :center;
+    margin:0px;
+    line-height:1.6;
+    color:#333;
+  }
+  #title{
+   font-size:3em;
+    margin:0px;
+  }
+  #img-div{
+    background-color:white;
+  }
+  #timeline{
+    margin: 60px;
+    font-size:1.2em;
+    text-align:center;
+  }
+  ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.8;
+  }
+  li{
+    margin: 0px 0px 12px 0px;
+  }
+  aside{
+    max-width: 540px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.8;
+  }
+  a {
+    color:	#FF00FF;
+  }
+  
+  
+  
